@@ -1,5 +1,5 @@
 ## Project Title
-We extracted the comments data from top viewed Youtube videos from Canada, transformed and loaded into the database
+We extracted the comments data from top viewed Youtube videos from Canada, transformed and loaded into the database.
 
 ## Getting Started
 Download the folder 'ETL Project' and run all the ipynb files
